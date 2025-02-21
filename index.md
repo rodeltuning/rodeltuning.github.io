@@ -2,6 +2,20 @@
 title: Home
 layout: home
 ---
+![Rodeltuning Logo](images/logo-klein.webp)
+
+Willkommen auf rodeltuning.de!
+
+Hier finden Sie Zubehörartikel für Rodeln.
+
+Ich selber bin ein leidenschaftlicher Hobbyrodler und von Beruf Werkzeugmacher. Ich stelle die Lenkseile und die Kunststoffschienen selber her.
+
+Anfragen bitte auf dragangveric@gmx.de und 004915255244744.
+
+Die Artikel können versendet oder auch gerne in 83059 Kolbermoor persönlich abgeholt werden.
+
+Sportliche Grüsse
+Dragan
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
