@@ -20,4 +20,4 @@ Die Artikel können versendet oder auch gerne in 83059 Kolbermoor persönlich ab
 
 ## Sportliche Grüsse, Dragan
 
-![rodel](/images/small/rodel.webp)(/images/rodel.webp){:target="_blank"}
+![[rodel](/images/small/rodel.webp)](/images/rodel.webp){:target="_blank"}
