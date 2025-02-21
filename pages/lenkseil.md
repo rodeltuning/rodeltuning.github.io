@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Drehgelenk-Lenkseil
 nav_order: 10
 ---
