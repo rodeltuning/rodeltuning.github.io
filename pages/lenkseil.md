@@ -10,3 +10,5 @@ Das Drehgelenk-Lenkseil ist aus hochwertigem (eloxierten) Aluminium und Edelstah
 Alle Schrauben sind ebenso aus Edelstahl. 
 Die Befestigung erfolgt ganz einfach durch zwei Holzschrauben. 
 Erhältlich in rot, blau und schwarz. Auch kombinierbar auf Wunsch.
+
+[![lenkseil-rot2](../images/lenkseil-rot2.webp)]
