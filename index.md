@@ -15,5 +15,4 @@ Ich selber bin ein leidenschaftlicher Hobbyrodler und von Beruf Werkzeugmacher. 
 
 Die Artikel können versendet oder auch gerne in 83059 Kolbermoor persönlich abgeholt werden.
 
-Sportliche Grüsse
-Dragan
+## Sportliche Grüsse, Dragan
