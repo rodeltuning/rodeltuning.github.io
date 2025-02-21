@@ -5,6 +5,7 @@ layout: home
 ![Rodeltuning Logo](images/logo-klein.webp)
 
 Willkommen auf rodeltuning.de!
+{: .fs-6 }
 
 Hier finden Sie Zubehörartikel für Rodeln.
 
