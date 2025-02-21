@@ -12,7 +12,7 @@ Hier finden Sie Zubehörartikel für Rodeln.
 
 Ich selber bin ein leidenschaftlicher Hobbyrodler und von Beruf Werkzeugmacher.
 
-Ich stelle die [Lenkseile](pages/lenkseil.md) und die [Kunststoffschienen](pages/schienen.md) selber her.
+Ich stelle die [Lenkseile](pages/lenkseil.html) und die [Kunststoffschienen](pages/schienen.html) selber her.
 
 ### Anfragen bitte auf dragangveric@gmx.de und 004915255244744.
 
