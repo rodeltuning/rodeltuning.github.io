@@ -12,3 +12,4 @@ Die Befestigung erfolgt ganz einfach durch zwei Holzschrauben.
 Erhältlich in rot, blau und schwarz. Auch kombinierbar auf Wunsch.
 
 [![lenkseil-rot2](../images/small/lenkseil-rot2.webp)](../images/lenkseil-rot2.webp){:target="_blank"}
+[![lenkseil-rot2](../images/small/lenkseil-rot1.webp)](../images/lenkseil-rot1.webp){:target="_blank"}
