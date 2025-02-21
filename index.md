@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 ![Rodeltuning Logo](images/logo-klein.webp)
 
