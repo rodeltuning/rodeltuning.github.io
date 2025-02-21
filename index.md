@@ -9,7 +9,8 @@ Willkommen auf rodeltuning.de!
 
 Hier finden Sie Zubehörartikel für Rodeln.
 
-Ich selber bin ein leidenschaftlicher Hobbyrodler und von Beruf Werkzeugmacher. Ich stelle die Lenkseile und die Kunststoffschienen selber her.
+Ich selber bin ein leidenschaftlicher Hobbyrodler und von Beruf Werkzeugmacher. 
+Ich stelle die Lenkseile und die Kunststoffschienen selber her.
 
 ### Anfragen bitte auf dragangveric@gmx.de und 004915255244744.
 
