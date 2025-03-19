@@ -15,6 +15,6 @@ nav_order: 20
 
 Die Kunststoffschienen laufen sehr schnell, auch bei Neuschnee. 
 Die Befestigungsschraben und Muttern und Scheiben sind aus Edelstahl. 
-Bei Verschleiß können die Schienen abgehobelt oder abgeschliffen werden. 
+Bei Verschleiß können die Schienen abgehobelt oder abgeschliffen werden.
 
 [![schienen1](../images/small/schienen1.webp)](../images/schienen1.webp){:target="_blank"}
