@@ -6,6 +6,11 @@ theme: just-the-docs
 # Supports true (default) or false
 search_enabled: false
 
+# Aux links for the upper right navigation
+aux_links:
+  "YouTube":
+    - "https://www.youtube.com/@dragangveric9507"
+
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
